@@ -1,0 +1,1 @@
+-e git+http://github.com/behdad/fonttools.git#egg=fonttools
